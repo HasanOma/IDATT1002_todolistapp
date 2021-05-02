@@ -18,7 +18,7 @@ There are two ways to retrieve the source code for this project:
 
 **With Git** please run the following command in the desired directory:
 ```
-git clone https://gitlab.stud.iie.ntnu.no/idatx1002_2021_k2-10/idatx1002_2021_k2-10.git
+git clone https://github.com/trthingnes/todolistapp
 ```
 
 **Without Git** please press the download button on the front page of the repo and select the desired file format.
