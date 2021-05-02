@@ -5,9 +5,6 @@ TodoListApp is an app made to help you structure your everyday tasks with ease. 
 your tasks, like priority, description and start and end dates. Tasks can be added to your own custom categories, and 
 filtered and sorted to your liking. Always on top of things from now on!
 
-## Contents
-[[_TOC_]]
-
 ## Getting started
 To test out our project or to get started with further development you can follow these steps.
 
